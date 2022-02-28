@@ -1,3 +1,4 @@
 Hi this is Ramu
 I am learning the Github in the another way
-Two lines are added and updated and remodified and deleted
+Two lines are added and updated and remodified
+
